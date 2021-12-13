@@ -11,8 +11,7 @@ require (
 	github.com/crossdock/crossdock-go v0.0.0-20160816171116-049aabb0122b
 	github.com/dgraph-io/badger v1.6.2
 	github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13 // indirect
-	github.com/fatih/color v1.9.0 // indirect
-	github.com/fsnotify/fsnotify v1.4.9
+	github.com/fsnotify/fsnotify v1.5.1
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-openapi/analysis v0.20.1 // indirect
 	github.com/go-openapi/errors v0.20.0
@@ -30,12 +29,11 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645
-	github.com/hashicorp/go-hclog v0.16.1
+	github.com/hashicorp/go-hclog v1.0.0
 	github.com/hashicorp/go-plugin v1.4.2
 	github.com/hashicorp/yamux v0.0.0-20190923154419-df201c70410d // indirect
 	github.com/kr/pretty v0.2.1
 	github.com/mailru/easyjson v0.7.7 // indirect
-	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mjibson/esc v0.2.0
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/olivere/elastic v6.2.35+incompatible
@@ -47,12 +45,9 @@ require (
 	github.com/rs/cors v1.7.0
 	github.com/securego/gosec v0.0.0-20200203094520-d13bb6d2420c
 	github.com/soheilhy/cmux v0.1.5
-	github.com/spf13/afero v1.2.2 // indirect
-	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/cobra v0.0.7
-	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.7.1
+	github.com/spf13/viper v1.10.0
 	github.com/stretchr/testify v1.7.0
 	github.com/uber/jaeger-client-go v2.29.1+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible
@@ -64,12 +59,10 @@ require (
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/zap v1.17.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5
-	golang.org/x/sys v0.0.0-20210603125802-9665404d3644
-	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c // indirect
-	google.golang.org/grpc v1.38.0
-	google.golang.org/protobuf v1.26.0
-	gopkg.in/ini.v1 v1.52.0 // indirect
+	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
+	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+	google.golang.org/grpc v1.42.0
+	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
 	honnef.co/go/tools v0.2.0
 )
